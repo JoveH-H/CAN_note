@@ -1,0 +1,2 @@
+在CANTest2的基础上移植CanFestival进行简易CANOPEN通讯测试
+通过在bsp_can.h文件设置主从机和节点ID
